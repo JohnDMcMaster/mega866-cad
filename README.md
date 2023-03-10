@@ -1,2 +1,2 @@
 # mega866
-Aggregate multiple TL866 into a single ZSM socket module
+Aggregate four TL866s into a single ZSM host.
